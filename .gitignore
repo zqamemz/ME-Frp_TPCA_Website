@@ -7,4 +7,5 @@ dist
 .kiro
 .shared
 tpcaw
+.qwen
 FM_CHANGELOG_FORMAT.md
