@@ -9,3 +9,5 @@ dist
 tpcaw
 .qwen
 FM_CHANGELOG_FORMAT.md
+FM_CHANGELOG_FORMAT.md
+server/
